@@ -1,0 +1,732 @@
+agency(1):
+	agency: Advisory Council on Historic Preservation
+	acronym: achp
+agency(2):
+	agency: African Development Foundation
+	acronym: adf
+agency(3):
+	agency: United States Agency for International Development
+	acronym: usaid
+agency(4):
+	agency: Department of Agriculture
+	acronym: usda
+agency(5):
+	agency: AMTRAK
+	acronym: 
+agency(6):
+	agency: Broadcasting Board of Governors; International Broadcasting Bureau
+	acronym: bbg
+agency(7):
+	agency: Central Intelligence Agency
+	acronym: cia
+agency(8):
+	agency: Department of Commerce
+	acronym: doc
+agency(9):
+	agency: Commission on Civil Rights
+	acronym: usccr
+agency(10):
+	agency: Commodity Futures Trading Commission
+	acronym: cftc
+agency(11):
+	agency: Consumer Product Safety Commission
+	acronym: cpsc
+agency(12):
+	agency: Corporation for National and Community Service
+	acronym: cncs
+agency(13):
+	agency: Court Services and Offender Supervision Agency for the District of Columbia
+	acronym: csosa
+agency(14):
+	agency: Defense Nuclear Facilities Safety Board
+	acronym: dnfsb
+agency(15):
+	agency: Department of Defense
+	acronym: dod
+agency(16):
+	agency: Department of Education
+	acronym: ed
+agency(17):
+	agency: Election Assistance Commission
+	acronym: eac
+agency(18):
+	agency: Department of Energy
+	acronym: doe
+agency(19):
+	agency: Environmental Protection Agency
+	acronym: epa
+agency(20):
+	agency: Equal Employment Opportunity Commission
+	acronym: eeoc
+agency(21):
+	agency: Export-Import Bank of the United States
+	acronym: exim
+agency(22):
+	agency: Farm Credit Administration
+	acronym: fca
+agency(23):
+	agency: Federal Communications Commission
+	acronym: fcc
+agency(24):
+	agency: Federal Deposit Insurance Corporation
+	acronym: fdic
+agency(25):
+	agency: Federal Election Commission
+	acronym: fec
+agency(26):
+	agency: Federal Energy Regulatory Commission
+	acronym: ferc
+agency(27):
+	agency: Federal Labor Relations Authority
+	acronym: flra
+agency(28):
+	agency: Federal Maritime Commission
+	acronym: fmc
+agency(29):
+	agency: Federal Mediation and Conciliation Service
+	acronym: fmcs
+agency(30):
+	agency: Federal Mine Safety and Health Review Commission
+	acronym: fmshrc
+agency(31):
+	agency: Federal Reserve System
+	acronym: frs
+agency(32):
+	agency: Federal Retirement Thrift Investment Board
+	acronym: frtib
+agency(33):
+	agency: Federal Trade Commission
+	acronym: ftc
+agency(34):
+	agency: General Services Administration
+	acronym: gsa
+agency(35):
+	agency: Department of Health and Human Services
+	acronym: hhs
+agency(36):
+	agency: Department of Homeland Security
+	acronym: dhs
+agency(37):
+	agency: Department of Housing and Urban Development
+	acronym: hud
+agency(38):
+	agency: Institute of Museum and Library Services
+	acronym: imls
+agency(39):
+	agency: Inter-American Foundation
+	acronym: iaf
+agency(40):
+	agency: Department of the Interior
+	acronym: doi
+agency(41):
+	agency: United States International Trade Commission
+	acronym: usitc
+agency(42):
+	agency: Department of Justice
+	acronym: doj
+agency(43):
+	agency: Department of Labor
+	acronym: dol
+agency(44):
+	agency: Merit Systems Protection Board
+	acronym: mspb
+agency(45):
+	agency: Millennium Challenge Corporation
+	acronym: mcc
+agency(46):
+	agency: National Aeronautics and Space Administration
+	acronym: nasa
+agency(47):
+	agency: National Archives and Records Administration
+	acronym: nara
+agency(48):
+	agency: National Capital Planning Commission
+	acronym: ncpc
+agency(49):
+	agency: National Council on Disability
+	acronym: ncd
+agency(50):
+	agency: National Credit Union Administration
+	acronym: ncua
+agency(51):
+	agency: National Endowment for the Arts
+	acronym: nea
+agency(52):
+	agency: National Endowment for the Humanities
+	acronym: neh
+agency(53):
+	agency: National Labor Relations Board
+	acronym: nlrb
+agency(54):
+	agency: National Mediation Board
+	acronym: nmb
+agency(55):
+	agency: National Science Foundation
+	acronym: nsf
+agency(56):
+	agency: National Transportation Safety Board
+	acronym: ntsb
+agency(57):
+	agency: Nuclear Regulatory Commission
+	acronym: nrc
+agency(58):
+	agency: Occupational Safety and Health Review Commission
+	acronym: oshrc
+agency(59):
+	agency: Office of Compliance
+	acronym: oc
+agency(60):
+	agency: Office of Government Ethics
+	acronym: usoge
+agency(61):
+	agency: Office of Personnel Management
+	acronym: opm
+agency(62):
+	agency: Office of Special Counsel
+	acronym: osc
+agency(63):
+	agency: Office of the Director of National Intelligence
+	acronym: dni
+agency(64):
+	agency: Office of the National Counterintelligence Executive
+	acronym: ncix
+agency(65):
+	agency: Overseas Private Investment Corporation
+	acronym: opic
+agency(66):
+	agency: Peace Corps
+	acronym: uspc
+agency(67):
+	agency: Pension Benefit Guaranty Corporation
+	acronym: pbgc
+agency(68):
+	agency: Postal Regulatory Commission
+	acronym: prc
+agency(69):
+	agency: United States Postal Service
+	acronym: usps
+agency(70):
+	agency: Railroad Retirement Board
+	acronym: rrb
+agency(71):
+	agency: Securities and Exchange Commission
+	acronym: sec
+agency(72):
+	agency: Selective Service System
+	acronym: sss
+agency(73):
+	agency: Small Business Administration
+	acronym: sba
+agency(74):
+	agency: Social Security Administration
+	acronym: ssa
+agency(75):
+	agency: Department of State
+	acronym: usds
+agency(76):
+	agency: Tennessee Valley Authority
+	acronym: tva
+agency(77):
+	agency: U.S. Trade and Development Agency
+	acronym: ustda
+agency(78):
+	agency: Department of Transportation
+	acronym: dot
+agency(79):
+	agency: Department of the Treasury
+	acronym: 
+agency(80):
+	agency: Department of Veterans Affairs
+	acronym: va
+agency(81):
+	agency: Executive Office of the President
+	acronym: eop
+agency(82):
+	agency: Supreme Court
+	acronym: scotus
+agency(83):
+	agency: House of Representatives
+	acronym: 
+agency(84):
+	agency: U.S. Senate
+	acronym: 
+agency(85):
+	agency: Library of Congress
+	acronym: loc
+agency(86):
+	agency: U.S. Court of Appeals
+	acronym: cafc
+agency(87):
+	agency: U.S. District Courts
+	acronym: 
+agency(88):
+	agency: U.S. Bankruptcy Courts
+	acronym: 
+agency(89):
+	agency: U.S. Court of Appeals for the Armed Forces
+	acronym: 
+agency(90):
+	agency: U.S. Court of Federal Claims
+	acronym: uscfc
+agency(91):
+	agency: U.S. Court of International Trade
+	acronym: 
+agency(92):
+	agency: U.S. Tax Court
+	acronym: 
+agency(93):
+	agency: U.S. Court of Appeals for Veterans Claims
+	acronym: cavc
+agency(94):
+	agency: Judicial Panel on Multidistrict Litigation
+	acronym: jpml
+agency(95):
+	agency: Administrative Office of the U.S. Courts
+	acronym: 
+agency(96):
+	agency: Federal Judicial Center
+	acronym: fjc
+agency(97):
+	agency: U.S. Sentencing Commission
+	acronym: ussc
+agency(98):
+	agency: Architect of the Capitol
+	acronym: capitol
+agency(99):
+	agency: United States Botanic Garden
+	acronym: 
+agency(100):
+	agency: Government Accountability Office
+	acronym: gao
+agency(101):
+	agency: Government Printing Office
+	acronym: gpo
+agency(102):
+	agency: Congressional Budget Office
+	acronym: cbo
+agency(103):
+	agency: Information Sharing Environment
+	acronym: ise
+agency(104):
+	agency: Panama Canal Authority
+	acronym: acp
+agency(105):
+	agency: Internal Revenue Service
+	acronym: irs
+agency(106):
+	agency: U.S. Energy Information Administration
+	acronym: eia
+agency(107):
+	agency: Administration for Children and Families
+	acronym: acf
+agency(108):
+	agency: Administration on Aging
+	acronym: aoa
+agency(109):
+	agency: Agency for Healthcare Research and Quality
+	acronym: ahrq
+agency(110):
+	agency: Agricultural Marketing Service
+	acronym: ams
+agency(111):
+	agency: Agricultural Research Service
+	acronym: ars
+agency(112):
+	agency: Alcohol and Tobacco Tax and Trade Bureau
+	acronym: ttb
+agency(113):
+	agency: Animal and Plant Health Inspection Service
+	acronym: aphis
+agency(114):
+	agency: Bureau of Alcohol, Tobacco, Firearms and Explosives
+	acronym: atf
+agency(115):
+	agency: Bureau of Economic Analysis
+	acronym: bea
+agency(116):
+	agency: Bureau of Engraving and Printing
+	acronym: bep
+agency(117):
+	agency: Bureau of Indian Affairs
+	acronym: bia
+agency(118):
+	agency: Bureau of Industry and Security
+	acronym: bis
+agency(119):
+	agency: Bureau of International Labor Affairs
+	acronym: ilab
+agency(120):
+	agency: Bureau of Labor Statistics
+	acronym: bls
+agency(121):
+	agency: Bureau of Land Management
+	acronym: blm
+agency(122):
+	agency: Bureau of Ocean Energy Management
+	acronym: boem
+agency(123):
+	agency: Bureau of Reclamation
+	acronym: 
+agency(124):
+	agency: Bureau of Safety and Environmental Enforcement
+	acronym: bsee
+agency(125):
+	agency: Bureau of the Census
+	acronym: 
+agency(126):
+	agency: Bureau of the Public Debt
+	acronym: 
+agency(127):
+	agency: Bureau of Transportation Statistics
+	acronym: bts
+agency(128):
+	agency: Center for Faith-Based and Neighborhood Partnerships
+	acronym: cfbnp
+agency(129):
+	agency: Center for Nutrition Policy and Promotion
+	acronym: cnpp
+agency(130):
+	agency: Centers for Disease Control and Prevention
+	acronym: cdc
+agency(131):
+	agency: Centers for Medicare and Medicaid Services
+	acronym: cms
+agency(132):
+	agency: Community Development Financial Institutions Fund
+	acronym: cdfi
+agency(133):
+	agency: Corporation for Public Broadcasting
+	acronym: cpb
+agency(134):
+	agency: Defense Advanced Research Projects Agency
+	acronym: darpa
+agency(135):
+	agency: Defense Commissary Agency
+	acronym: deca
+agency(136):
+	agency: Defense Contract Audit Agency
+	acronym: dcaa
+agency(137):
+	agency: Defense Contract Management Agency
+	acronym: dcma
+agency(138):
+	agency: Defense Finance and Accounting Service
+	acronym: dfas
+agency(139):
+	agency: Defense Human Resources Activity
+	acronym: dhra
+agency(140):
+	agency: Defense Information Systems Agency
+	acronym: disa
+agency(141):
+	agency: Defense Intelligence Agency
+	acronym: dia
+agency(142):
+	agency: Defense Logistics Agency
+	acronym: dla
+agency(143):
+	agency: Defense Prisoner of War/Missing Personnel Office
+	acronym: dpmo
+agency(144):
+	agency: Defense Security Cooperation Agency
+	acronym: dsca
+agency(145):
+	agency: Defense Security Service
+	acronym: dss
+agency(146):
+	agency: Defense Technical Information Center
+	acronym: dtic
+agency(147):
+	agency: Defense Threat Reduction Agency
+	acronym: dtra
+agency(148):
+	agency: Department of Defense Education Activity
+	acronym: dodea
+agency(149):
+	agency: Department of the Air Force
+	acronym: 
+agency(150):
+	agency: Department of the Army
+	acronym: 
+agency(151):
+	agency: Department of the Navy
+	acronym: 
+agency(152):
+	agency: Drug Enforcement Administration
+	acronym: dea
+agency(153):
+	agency: Economic Development Administration
+	acronym: eda
+agency(154):
+	agency: Economic Research Service
+	acronym: ers
+agency(155):
+	agency: Economics and Statistics Administration
+	acronym: esa
+agency(156):
+	agency: Employee Benefits Security Administration
+	acronym: ebsa
+agency(157):
+	agency: Employment and Training Administration
+	acronym: eta
+agency(158):
+	agency: Farm Service Agency
+	acronym: fsa
+agency(159):
+	agency: Federal Aviation Administration
+	acronym: faa
+agency(160):
+	agency: Federal Bureau of Investigation
+	acronym: fbi
+agency(161):
+	agency: Federal Bureau of Prisons
+	acronym: bop
+agency(162):
+	agency: Federal Consulting Group
+	acronym: fcg
+agency(163):
+	agency: Federal Emergency Management Agency
+	acronym: fema
+agency(164):
+	agency: Federal Highway Administration
+	acronym: fhwa
+agency(165):
+	agency: Federal Housing Administration
+	acronym: fha
+agency(166):
+	agency: Federal Housing Finance Agency
+	acronym: fhfa
+agency(167):
+	agency: Federal Law Enforcement Training Center
+	acronym: fletc
+agency(168):
+	agency: Federal Motor Carrier Safety Administration
+	acronym: fmcsa
+agency(169):
+	agency: Federal Railroad Administration
+	acronym: fra
+agency(170):
+	agency: Federal Student Aid
+	acronym: fafsa
+agency(171):
+	agency: Federal Transit Administration
+	acronym: fta
+agency(172):
+	agency: Financial Crimes Enforcement Network
+	acronym: fincen
+agency(173):
+	agency: Financial Management Service
+	acronym: fms
+agency(174):
+	agency: Fish and Wildlife Service
+	acronym: fws
+agency(175):
+	agency: Food and Drug Administration
+	acronym: fda
+agency(176):
+	agency: Food and Nutrition Service
+	acronym: fns
+agency(177):
+	agency: Food Safety and Inspection Service
+	acronym: fsis
+agency(178):
+	agency: Foreign Agricultural Service
+	acronym: fas
+agency(179):
+	agency: Forest Service
+	acronym: usfs
+agency(180):
+    agency: Grain Inspection, Packers and Stockyards Administration
+    acronym: gipsa
+agency(181):
+	agency: Health Resources and Services Administration
+	acronym: hrsa
+agency(182):
+	agency: Indian Health Service
+	acronym: ihs
+agency(183):
+	agency: Institute of Education Sciences
+	acronym: ies
+agency(184):
+	agency: International Trade Administration
+	acronym: ita
+agency(185):
+	agency: Job Corps
+	acronym: 
+agency(186):
+	agency: Joint Chiefs of Staff
+	acronym: jcs
+agency(187):
+	agency: Maritime Administration
+	acronym: marad
+agency(188):
+	agency: Mine Safety and Health Administration
+	acronym: msha
+agency(189):
+	agency: Minority Business Development Agency
+	acronym: mbda
+agency(190):
+	agency: Missile Defense Agency
+	acronym: mda
+agency(191):
+	agency: National Agricultural Statistics Service
+	acronym: nass
+agency(192):
+	agency: National Cemetery Administration
+	acronym: cem
+agency(193):
+	agency: National Center for Education Statistics
+	acronym: nces
+agency(194):
+	agency: National Geospatial-Intelligence Agency
+	acronym: nga
+agency(195):
+	agency: National Guard Bureau
+	acronym: 
+agency(196):
+	agency: National Highway Traffic Safety Administration
+	acronym: nhtsa
+agency(197):
+	agency: National Institute of Food and Agriculture
+	acronym: nifa
+agency(198):
+	agency: National Institute of Standards and Technology
+	acronym: nist
+agency(199):
+	agency: National Institutes of Health
+	acronym: nih
+agency(200):
+	agency: National Nuclear Security Administration
+	acronym: nnsa
+agency(201):
+	agency: National Oceanic and Atmospheric Administration
+	acronym: noaa
+agency(202):
+	agency: National Park Service
+	acronym: nps
+agency(203):
+	agency: National Reconnaissance Office
+	acronym: nro
+agency(204):
+	agency: National Security Agency
+	acronym: nsa
+agency(205):
+	agency: National Telecommunications and Information Administration
+	acronym: ntia
+agency(206):
+	agency: Natural Resources Conservation Service
+	acronym: nrcs
+agency(207):
+	agency: Naval Criminal Investigative Service
+	acronym: ncis
+agency(208):
+	agency: Occupational Safety and Health Administration
+	acronym: osha
+agency(209):
+	agency: Office for Civil Rights
+	acronym: ocr
+agency(210):
+	agency: Office of Economic Adjustment
+	acronym: oea
+agency(211):
+	agency: Office of Elementary and Secondary Education
+	acronym: oese
+agency(212):
+	agency: Office of Financial Stability
+	acronym: ofs
+agency(213):
+	agency: Office of Insular Affairs
+	acronym: oia
+agency(214):
+	agency: Office of Postsecondary Education
+	acronym: ope
+agency(215):
+	agency: USDA Rural Development
+	acronym: rd
+agency(216):
+	agency: Office of Special Education and Rehabilitative Services
+	acronym: osers
+agency(217):
+	agency: Office of Surface Mining
+	acronym: osm
+agency(218):
+	agency: Office of the Comptroller of the Currency
+	acronym: occ
+agency(219):
+	agency: Office of Vocational and Adult Education
+	acronym: ovae
+agency(220):
+	agency: Patent and Trademark Office
+	acronym: uspto
+agency(221):
+	agency: Pentagon Force Protection Agency
+	acronym: pfpa
+agency(222):
+	agency: Pipeline and Hazardous Materials Safety Administration
+	acronym: phmsa
+agency(223):
+	agency: Research and Innovative Technology Administration
+	acronym: rita
+agency(224):
+	agency: Risk Management Agency
+	acronym: rma
+agency(225):
+	agency: Saint Lawrence Seaway Development Corporation
+	acronym: slsdc
+agency(226):
+	agency: Securities Investor Protection Corporation
+	acronym: sipc
+agency(227):
+	agency: Substance Abuse and Mental Health Services Administration
+	acronym: samhsa
+agency(228):
+	agency: Surface Transportation Board
+	acronym: stb
+agency(229):
+	agency: Transportation Security Administration
+	acronym: tsa
+agency(230):
+	agency: TRICARE Management Activity
+	acronym: 
+agency(231):
+	agency: United States Citizenship and Immigration Services
+	acronym: uscis
+agency(232):
+	agency: United States Coast Guard
+	acronym: uscg
+agency(233):
+	agency: United States Customs and Border Protection
+	acronym: cbp
+agency(234):
+	agency: United States Geological Survey
+	acronym: usgs
+agency(235):
+	agency: United States Immigration and Customs Enforcement
+	acronym: ice
+agency(236):
+	agency: United States Marshals
+	acronym: 
+agency(237):
+	agency: United States Mint
+	acronym: 
+agency(238):
+	agency: United States Secret Service
+	acronym: usss
+agency(239):
+	agency: Veterans Benefits Administration
+	acronym: vba
+agency(240):
+	agency: Veterans Health Administration
+	acronym: vha
+agency(241):
+	agency: Veterans\' Employment and Training Service
+	acronym: vets
+agency(242):
+	agency: Wage and Hour Division
+	acronym: whd
+agency(243):
+	agency: Washington Headquarters Services
+	acronym: whs
+agency(244):
+	agency: Women\'s Bureau
+	acronym: wb
