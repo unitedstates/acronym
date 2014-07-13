@@ -536,8 +536,8 @@ agency:
   agency: Forest Service
   acronym: usfs
 agency:
-    agency: Grain Inspection, Packers and Stockyards Administration
-    acronym: gipsa
+  agency: Grain Inspection, Packers and Stockyards Administration
+  acronym: gipsa
 agency:
   agency: Health Resources and Services Administration
   acronym: hrsa
@@ -705,7 +705,7 @@ agency:
   acronym: ice
 agency:
   agency: United States Marshals
-  acronym: 
+  acronym: usms
 agency:
   agency: United States Mint
   acronym: 
