@@ -1,0 +1,35 @@
+---
+
+ATO: Authority to operate, generally granted by a CIO or DAA, is a term describe the granting of approval for an IT system to be used by an agency
+
+C&A's: Certifications and accreditations or C&A's are standardized statements regarding a vendor's compliance with common contract requirements
+
+CISO: Chief information security officer
+
+CO: Contracting officer, the non-technical government representative charged with administering a contract
+
+COTR: Contacting officer's technical representative, the technical government representative on a government contract, often akin to a project or program manager in the private sector
+
+DAA: The Designated Approving Authority/Designated Accrediting Authority/Delegated Accrediting Authority has ultimate responsiblity for running a system at a particular level of risk.
+
+DIACAP: "(Department of) Defense Information Assurance Certification and Accreditation Process for risk management of information systems. The process by which an ATO is achieved in DoD."
+
+FAR: The [Federal Acquisition Regulation](http://www.acquisition.gov/far/) or FAR is the primary law government federal procurement in the United States
+
+FedRAMP: The [Federal Risk and Authorization Management Program](http://cloud.cio.gov/fedramp) is a framework for certifying the security of cloud service providers for government-wide use
+
+FISMA: The Federal Information Security Management act lays out a common framework for an agency to evaluate the risk associated with a government IT system
+
+GSA Schedules: See Schedule 70.
+
+IATO: Interim Authority/Authorization to Operate, is a provisional approval for a system whose deficiencies prevent a formal ATO from being issued.
+
+SAM.gov: "[SAM.gov](https://sam.gov) is a centralized registry for vendor information including certification and accreditations"
+
+Schedule 70: Schedule 70 of the GSA Schedules is where the General Services Administration lists government-wide information technology contracts it has negotiated with common vendors. Listed offerings can be purchased through a simplified acquisition process.
+
+Section 508: "[Section 508](http://www.section508.gov/) of the US Rehabilitation Act lays out accessibility requirements all US Government Websites must meet"
+
+SP 800-53: A catalog of security controls published by NIST. Used to describe a system's security measures in FISMA and FedRAMP approvals.
+
+STIG: "[Secure Technical Implementation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx). These are DISA's security requirements for running certain kinds of software in the DOD."
