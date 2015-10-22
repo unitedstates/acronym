@@ -12,7 +12,7 @@ All contributions to this project will be released under the CC0
 dedication. By submitting a pull request, you are agreeing to comply
 with this waiver of copyright interest.
 
-## <a name="commit-messages"></a> Commit Messages
+## Commit Messages
 
 Treat commit messages as an email message that describes what you changed and why.
 
@@ -33,7 +33,8 @@ references", such as which issues were fixed or URLs to external content.
 
 ## Submitting a Pull Request
 
-We accept changes as Pull Requests. The [GitHub Help](https://help.github.com/articles/using-pull-requests/)
+We encourage you to propose changes as Pull Requests. 
+The [GitHub Help](https://help.github.com/articles/using-pull-requests/)
 guidelines around this are pretty good, please review them first.
 
 Before you submit your pull request consider the following guidelines:
@@ -44,8 +45,7 @@ Before you submit your pull request consider the following guidelines:
 GitHub might do this for you automatically if you start to edit a file in the browser, and give you a message
 like "You’re editing a file in a project you don’t have write access to. Submitting a change will change the 
 file in a new branch in your fork usrename/acronym, so you can send a pull request."
-* Commit your changes using a descriptive commit message that follows our
-  [commit message conventions](#commit-messages)
+* Commit your changes using a descriptive commit message that follows our commit message conventions.
 * Send a pull request. By default the pull request message will be the commit message you just wrote.
 * Owners of this repo will review the pull request. We may suggest changes or accept the request as is.
 * After your pull request is merged, you can safely delete your branch and pull the changes
